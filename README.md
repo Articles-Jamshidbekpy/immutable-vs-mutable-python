@@ -11,8 +11,7 @@ Sababi, ushbu terminlar aynan ingliz tilida ishlatilganda ma’nosini to‘liq v
 
 ## 1) Immutable data types (O‘zgarmas ma’lumot turlari)
 
-🟢 Rememeber:
-Python’da **immutable data types** deb, **object sifatida mavjud bo‘lgan** va **qiymati (value) o‘zgarganda mavjud object’ni o‘zgartirmasdan, balki xotirada yangi object yaratadigan** ma’lumot turlariga aytiladi.
+🟢 Python’da **immutable data types** deb, **object sifatida mavjud bo‘lgan** va **qiymati (value) o‘zgarganda mavjud object’ni o‘zgartirmasdan, balki xotirada yangi object yaratadigan** ma’lumot turlariga aytiladi.
 
 Ya’ni, immutable obyekt ustida o‘zgarish amalga oshirilgandek ko‘rinsa ham, aslida:
 - eski obyekt o‘zgarishsiz qoladi
