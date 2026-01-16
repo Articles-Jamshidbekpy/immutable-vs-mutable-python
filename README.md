@@ -34,3 +34,5 @@ Buni qanday aniqlash mumkin?
 
 Python’da barcha ma’lumot turlari **class** asosida yaratiladi va har bir obyekt xotirada o‘zining **unique manzili (id)** ga ega bo‘ladi.  
 Qiymat o‘zgarganda `id()` funksiyasi orqali obyektning xotira manzili o‘zgarganini ko‘rish mumkin — bu esa yangi obyekt yaratilganidan dalolat beradi.(**2-rasm**)
+
+Immutable ma'lumot turlariga int,float,bool,str,tuple,frozeset,bytes kabilar kiradi.
