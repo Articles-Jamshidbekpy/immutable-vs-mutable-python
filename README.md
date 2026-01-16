@@ -11,6 +11,7 @@ Sababi, ushbu terminlar aynan ingliz tilida ishlatilganda ma’nosini to‘liq v
 
 ## 1) Immutable data types (O‘zgarmas ma’lumot turlari)
 
+🟢 Rememeber:
 Python’da **immutable data types** deb, **object sifatida mavjud bo‘lgan** va **qiymati (value) o‘zgarganda mavjud object’ni o‘zgartirmasdan, balki xotirada yangi object yaratadigan** ma’lumot turlariga aytiladi.
 
 Ya’ni, immutable obyekt ustida o‘zgarish amalga oshirilgandek ko‘rinsa ham, aslida:
@@ -35,4 +36,4 @@ Buni qanday aniqlash mumkin?
 Python’da barcha ma’lumot turlari **class** asosida yaratiladi va har bir obyekt xotirada o‘zining **unique manzili (id)** ga ega bo‘ladi.  
 Qiymat o‘zgarganda `id()` funksiyasi orqali obyektning xotira manzili o‘zgarganini ko‘rish mumkin — bu esa yangi obyekt yaratilganidan dalolat beradi.(**2-rasm**)
 
-Immutable ma'lumot turlariga int,float,bool,str,tuple,frozeset,bytes kabilar kiradi.
+Immutable ma'lumot turlariga <h4><b>[int,float,bool,str,tuple,frozeset,bytes]</b></h3> kabilar kiradi.
