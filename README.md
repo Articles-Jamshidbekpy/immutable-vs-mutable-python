@@ -24,7 +24,7 @@ Buni oddiy kod va chizma orqali tushunish mumkin.
 <img width="905" height="546" alt="Immutable diagram 1" src="https://github.com/user-attachments/assets/fd4c60a4-b62a-4fb0-a8a6-635b32a0f761" />
 <h5 style="color:green"><b>(1-rasm)</b></h5>
 
-<img width="900" height="500" alt="Immutable diagram 2" src="https://github.com/user-attachments/assets/a1f9743c-8a96-44d3-996a-e25c7a29d6ef" />
+<img width="900" height="500" alt="Immutable diagram 2" src="https://github.com/user-attachments/assets/7fbecab1-76b1-413e-be0e-b4dd15eda107" />
 <h5 style="color:green"><b>(2-rasm)</b></h5>
 
 Yuqoridagi **1-rasm**da ko‘rib turganingizdek, birinchi holatda o‘zgaruvchi `x` ma’lum bir qiymatni o‘zlashtiradi.  
@@ -33,4 +33,4 @@ Keyingi holatda esa `x` ga yangi qiymat berilganda, mavjud obyektning qiymati ya
 Buni qanday aniqlash mumkin?
 
 Python’da barcha ma’lumot turlari **class** asosida yaratiladi va har bir obyekt xotirada o‘zining **unique manzili (id)** ga ega bo‘ladi.  
-Qiymat o‘zgarganda `id()` funksiyasi orqali obyektning xotira manzili o‘zgarganini ko‘rish mumkin — bu esa yangi obyekt yaratilganidan dalolat beradi.
+Qiymat o‘zgarganda `id()` funksiyasi orqali obyektning xotira manzili o‘zgarganini ko‘rish mumkin — bu esa yangi obyekt yaratilganidan dalolat beradi.(**2-rasm**)
