@@ -27,8 +27,8 @@ Buni oddiy kod va chizma orqali tushunish mumkin.
 <img width="900" height="500" alt="Immutable diagram 2" src="https://github.com/user-attachments/assets/7fbecab1-76b1-413e-be0e-b4dd15eda107" />
 <h5 style="color:green"><b>(2-rasm)</b></h5>
 
-Yuqoridagi **1-rasm**da ko‘rib turganingizdek, birinchi holatda o‘zgaruvchi `x` ma’lum bir qiymatni o‘zlashtiradi.  
-Keyingi holatda esa `x` ga yangi qiymat berilganda, mavjud obyektning qiymati yangilanmaydi, balki **xotirada yangi obyekt yaratiladi**.
+Yuqoridagi **1-rasm**da ko‘rib turganingizdek, birinchi holatda o‘zgaruvchi `a` ma’lum bir qiymatni, `x` ni o‘zlashtiradi.  
+Keyingi holatda esa `a` ga yangi qiymat `y` berilganda, mavjud obyektning qiymati yangilanmaydi, balki **xotirada yangi obyekt yaratiladi**.
 
 Buni qanday aniqlash mumkin?
 
