@@ -77,3 +77,10 @@ Quyida buni hammaga tushunarli bo‘lgan `list` ma’lumot turi orqali ko‘rib 
 
 Davomi bor…  
 3-qismda aynan ushbu ma’lumot turlaridan qaysi holatlarda va qanday foydalanish kerakligini yoritishga harakat qilamiz.
+
+## ✍️ Author
+
+**Jamshidbek Shodibekov**  
+📧 Email: <jamshidbekdev04@gmail.com>
+
+
